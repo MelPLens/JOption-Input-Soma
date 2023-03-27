@@ -4,7 +4,8 @@ Neste Repositório compartilho todos os conteudos da materia de linguagens da pr
 Uso de JOptionPane:
 
 Imagem 1 :  Uso de input e Question ( GitHub : JOptionPaneInput.Question.Java)
-Imagem 2 :  Uso de Input,If,Else e String ()
+
+Imagem 2 :  Uso de Input,If,Else e String (Github: JOptionInputcomForeInt.java)
 
 ******************
 Imagem 1
