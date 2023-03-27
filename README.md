@@ -8,7 +8,7 @@ Imagem 1 :  Uso de input e Question ( GitHub : JOptionPaneInput.Question.Java)
 
 Imagem 2 :  Uso de Input,If,Else e String (Github: JOptionInputcomForeInt.java)
 
-Imagem 3 :  Uso de Input e Message (JOptionInputeMessage.java)
+Imagem 3 :  Uso de Input,Message e QuestionMessage (JOptionInputeMessage.java)
 
 ******************
 Imagem 1
