@@ -28,7 +28,6 @@ Imagem 3
 
 Imagem 4
 
-![image](https://user-images.githubusercontent.com/99374140/228090638-2a132e3e-6fb8-493a-bf27-8fff4c946bd8.png)
-
+![image](https://user-images.githubusercontent.com/99374140/228090730-f5474a0f-914b-47f4-86d6-a36b81b1ca44.png)
 
 
